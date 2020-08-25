@@ -1,2 +1,4 @@
-# drawbridge-issues
-Public repository for bug reports, feature requests, and other issues with the Maxar Governance Drawbridge product.
+# Drawbridge Issues
+This repository hosts user issues for the Maxar Cloud Governance Drawbridge product.
+
+Issues reported here will be assigned, triaged, investigated and worked as necessary.
